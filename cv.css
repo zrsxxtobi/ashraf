@@ -12,7 +12,7 @@ h1{
 div{
     height: 45rem;
     width: 44rem;
-    background-image: url(/index.html/mycv.png);
+    background-image: url(/mycv.png);
    position: relative;
    left: 15rem;
 }
